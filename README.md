@@ -34,7 +34,7 @@ Every report includes:
 ## Project structure
 
 ```
-autoreasarch-agent/
+AutoResearch-Agent/
 ├── backend/
 │   ├── agents/
 │   │   ├── planner.py      # breaks query into subtopics
@@ -64,8 +64,8 @@ autoreasarch-agent/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/autoreasarch-agent.git
-cd autoreasarch-agent
+git clone https://github.com/mukuldatta/AutoResearch-Agent.git
+cd AutoResearch-Agent
 
 # 2. Create and activate a virtual environment
 python -m venv .venv
