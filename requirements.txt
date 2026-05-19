@@ -1,0 +1,7 @@
+crewai
+tavily-python
+fastapi
+uvicorn
+streamlit
+pydantic-settings
+python-dotenv
